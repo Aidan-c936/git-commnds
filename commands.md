@@ -7,8 +7,8 @@ _this is also em_
 **this is strong**
 __this is also strong__
 
-*this 
-*is 
-*an
-+unordered
--list
+* this 
+* is 
+* an
++ unordered
+- list
